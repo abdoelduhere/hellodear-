@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+<meta name="author"content"abdoelduhere">
+  <meta="description"content="My system">
+  <meta="keywords"content="html,css,js">
+  <meta="robots"content="index, follow">
+  <meta property="og:title"content=htmlcourse">
+<meta property="og:description"content=intro to html">
+<meta property="og:image"content="html.mm>
+<meta property="og:url"conent="https://abdocodee.com">
+  <meta property="og:type"content="website">
+  <link rel="icon"href="<a href="https://ibb.co/zbm0qvy"><img src="https://i.ibb.co/zbm0qvy/programming-code-technology-logo-617585-1862.jpg" alt="programming-code-technology-logo-617585-1862" border="0"></a>
+</head>
+
+<body>
+
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+<h3 align="center"><ins>بسم الله الرحمن الرحيم</ins> 
+</h3 aling="left"><mark>
+  من اشهر ملفات البرمجه
+</mark>
+<p> 
+<a 
+  <target="_blank"href="https://www.facebook.com/profile.php?id=100077180682662">Facebook </a> 
+</p>
+  <p>
+    <h5>
+  تطوير الويب بأنواعه الثلاثة: التطوير الكامل وتطوير الواجهة الخلفية وتطوير الواجهة الأمامية تطوير سطح المكتب تطوير تطبيقات الهاتف
+</h6>
+</p>
+  <p>
+    <q>
+      <mark>Bill Gates </mark>
+      Failure is more important than success, because failure is what will teach you the meaning of success
+    </q>
+  </p>
+<img src="https://i.ibb.co/dsvXdV6/abdoabdo.jpg" alt="abdoabdo" border="0"></a>
+  <p>
+  &copy; copy right abdo2023
+  </p>
+
+</html
